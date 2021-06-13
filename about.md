@@ -4,26 +4,23 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This is my tech blog, where I organize and write about the things I've learned! I'm pretty excited to be starting this journey into the unknown.
+Here is my [previous blog](https://blog.naver.com/kevin991125). (Migration incoming)
 
-There are currently two themes built on Poole:
+### Here are the things that I'll do to improve this site (to-do list):
+* Set project page, where a page leads to posts of the project.
+* Automate the above with jekyll liquids
+* migrate and organize posts from [previous blog](https://blog.naver.com/kevin991125)
+* Set up link to mail, github etc..
+* Set up commenting
+* Maybe, set kor|eng language selection
+* Blog on process of setting up github pages in lanyon
+* Set up so opening sidebar doesn't affect the whole page
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Various Questions I have:
+* What is [Atom](https://atom.io/) and how can it benefit me?
 
 Thanks for reading!
