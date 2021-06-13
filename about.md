@@ -25,5 +25,7 @@ Here is my [previous blog](https://blog.naver.com/kevin991125). (Migration incom
 ### Various Questions I have:
 * What is [Atom](https://atom.io/) and how can it benefit me?
 
+### Things to study:
+* How do I use [markdown](https://guides.github.com/features/mastering-markdown/)?
 
 Thanks for reading!
