@@ -10,7 +10,7 @@ title: About
 This is my tech blog, where I organize and write about the things I've learned! I'm pretty excited to be starting this journey into the unknown.
 
 Here is my [previous blog](https://blog.naver.com/kevin991125). (Migration incoming)
-
+참고자료 - [http://patricksteadman.ca/2014/08/04/lanyonsetup/]
 ## Compare two #
 ### Here are the things that I'll do to improve this site (to-do list):
 * Set project page, where a page leads to posts of the project.
@@ -22,6 +22,7 @@ Here is my [previous blog](https://blog.naver.com/kevin991125). (Migration incom
 * Blog on process of setting up github pages in lanyon
 * Set up so opening sidebar doesn't affect the whole page
 * Optimize [pagination](https://jekyllrb.com/docs/variables/#paginator) to my liking
+
 ### Various Questions I have:
 * What is [Atom](https://atom.io/) and how can it benefit me?
 
