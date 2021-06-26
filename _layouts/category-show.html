@@ -1,14 +1,8 @@
 ---
 layout: page
 ---
-{% assign apple = page.categories %}
-  <h1 class={{apple}}> {{apple}} </h1>
-  <h1> Test </h1>
-
 <div class="posts">
-  <h1> {{apple}} </h1>
-  <h1> Test </h1>
-  {% for post in page.categories %}
+  {% for post in site.categories[pages.category] %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
