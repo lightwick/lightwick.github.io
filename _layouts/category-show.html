@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="posts">
-  {% assign category = page.categories[1] %}
+  {% assign category = page.categories[0] %}
   <div class={{category}}> </div>
   {% for post in site.categories.category %}
   <div class="post">
