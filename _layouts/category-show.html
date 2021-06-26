@@ -2,7 +2,7 @@
 layout: page
 ---
 <div class="posts">
-  {% for post in site.categories[pages.category] %}
+  {% for post in site.categories[page.category] %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
