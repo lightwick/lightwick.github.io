@@ -3,6 +3,8 @@ layout: page
 ---
 
 <div class="posts">
+  {% assign a = page.categories %}
+  <h1> {{a}} </h1>
   {% for post in page.categories %}
   <div class="post">
     <h1 class="post-title">
