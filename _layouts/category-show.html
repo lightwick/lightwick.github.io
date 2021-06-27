@@ -2,14 +2,9 @@
 layout: page
 ---
 
-{% for cat in page.categories %}
-<div class="{{cat}}"></div>
-{% endfor %}
-
 <div class="posts">
-  {% assign category = page.categories[0] %}
-  <div class={{category}}> </div>
-  {% for post in site.categories.category %}
+  {% assign cat = page.cat %}
+  {% for post in site.categories[cat] %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
