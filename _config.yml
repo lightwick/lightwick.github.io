@@ -2,7 +2,7 @@
 title:               Lightwick
 tagline:             'For a better curiosity'
 description:         'Remember to think'
-url:                 https://lightwick.github.io
+url:                 
 baseurl:             ''
 paginate:            5
 permalink:           pretty
