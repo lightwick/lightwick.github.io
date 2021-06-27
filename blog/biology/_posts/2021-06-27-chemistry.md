@@ -16,8 +16,10 @@ There are 90~94 naturally occuring elements. Humans need 25 of them, and plants 
 - Carbon (C) - 18.5%
 - Hydrogen (H) - 9.5%
 - Nitrogen (N) - 3.3%
+- 
 The other elements, while small in composition rate, is essential for proper growth and nourishment of our bodies. We call these essential elements, 'Essential trace elements'.
 The word 'trace element' can have different meaning throughout different literature.
+
 ### Trace Element
 - Biochemistry: Having a concentration smaller than 100ppm or 100μg
 - Geochemistry: Having a concentration smaller than 1,000ppm or 0.1% of a rock's composition.
@@ -34,8 +36,9 @@ The word 'trace element' can have different meaning throughout different literat
 
 - mass number: (Number of protons) + (Number of neutron)
 - atomic number: number of protons
-- atomic mass: average mass of all the existing isotopes an element
-*One thing to note here is, because protons' and neutrons' mass aren't exactly 1Da(dalton), the atomic mass of an element does not equal to the mass number(while unit in dalton)*
+- atomic mass: average mass of all the existing isotopes an element<br>
+*One thing to note here is, because protons' and neutrons' mass aren't exactly 1Da(dalton), the atomic mass of an element does not equal to the mass number(while unit in dalton)*\
+
 Isotopes are atoms that have different number of neutron, yet having the same number of protons.
 
 A radioactive isotope is where an atom is going through a decay of the nucleus, and during the decay the atom can lose protons, ergo changing the element.\
@@ -55,8 +58,7 @@ Valence shell = complete/full → inert, checmically unreactive; stable
 ### The Chemical Bonds
 - Covalent Bond: atoms sharing electron(s), due to the stability of having complete valence shells.
 - Ionic Bond: Positive charge(cation) and negative charge(anion) attract to each other and creates chemical bond
-
-**_More on ionic bonds_**
+<br><br>**_More on ionic bonds_**
 - Water weakens ionic bonds, due to the atoms interacting with the water molecules
 - Atoms with ionic bonds are not molecules. i.e. NaCl(Not a molecule)
 
