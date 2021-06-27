@@ -7,8 +7,9 @@ episode: 2
 Biology is the product of chemistry and physics, ergo basic knowledge of them are crucial to understanding biology.
 
 ## 1. The Building Blocks
->Organisms ← matter ← elements
-← representing formulation\
+>Organisms ← matter ← elements<br>
+← representing formulation
+
 Elements
 There are 90~94 naturally occuring elements. Humans need 25 of them, and plants need 17 to survive. Let's look at humans. Over 96% of the human body consists of the following.
 - Oxygen (O) - 65.0%
