@@ -31,6 +31,7 @@ The word 'trace element' can have different meaning throughout different literat
 | Proton    | ≈1Da     | ≈1.7*10^(-27) |
 | Neutron   | ≈1Da     | ≈1.7*10^(-27) |
 | Electron  | ≈0.55mDa | ≈9.1*10^(-31) |
+
 - mass number: (Number of protons) + (Number of neutron)
 - atomic number: number of protons
 - atomic mass: average mass of all the existing isotopes an element
@@ -46,8 +47,8 @@ The energy in atoms are from potential energy of the electron.\
 More energy -> higher potential energy of electron; electron being further away from the nucleus.\
 The electrons' energy is quantized, meaning it has fixed energy levels of which it can have. This is the shell of the atom.\
 
-The outer most shell is the *_valence shell_*.\
-The electrons in the valence shell are teh *_valence electrons_*.\
+The outer most shell is the **valence shell**.\
+The electrons in the valence shell are teh **valence electrons**.\
 Chemical behavior is determined by the valence electrons.\
 Valence shell = complete/full → inert, checmically unreactive; stable
 
@@ -55,7 +56,7 @@ Valence shell = complete/full → inert, checmically unreactive; stable
 - Covalent Bond: atoms sharing electron(s), due to the stability of having complete valence shells.
 - Ionic Bond: Positive charge(cation) and negative charge(anion) attract to each other and creates chemical bond
 
-*_More on ionic bonds_*
+**__More on ionic bonds__**
 - Water weakens ionic bonds, due to the atoms interacting with the water molecules
 - Atoms with ionic bonds are not molecules. i.e. NaCl(Not a molecule)
 
