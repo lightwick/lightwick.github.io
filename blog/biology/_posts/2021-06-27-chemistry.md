@@ -56,7 +56,7 @@ Valence shell = complete/full → inert, checmically unreactive; stable
 - Covalent Bond: atoms sharing electron(s), due to the stability of having complete valence shells.
 - Ionic Bond: Positive charge(cation) and negative charge(anion) attract to each other and creates chemical bond
 
-**__More on ionic bonds__**
+**_More on ionic bonds_**
 - Water weakens ionic bonds, due to the atoms interacting with the water molecules
 - Atoms with ionic bonds are not molecules. i.e. NaCl(Not a molecule)
 
