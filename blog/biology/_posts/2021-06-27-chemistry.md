@@ -16,7 +16,7 @@ There are 90~94 naturally occuring elements. Humans need 25 of them, and plants 
 - Carbon (C) - 18.5%
 - Hydrogen (H) - 9.5%
 - Nitrogen (N) - 3.3%
-- 
+
 The other elements, while small in composition rate, is essential for proper growth and nourishment of our bodies. We call these essential elements, 'Essential trace elements'.
 The word 'trace element' can have different meaning throughout different literature.
 
@@ -56,14 +56,15 @@ Chemical behavior is determined by the valence electrons.\
 Valence shell = complete/full → inert, checmically unreactive; stable
 
 ### The Chemical Bonds
-- Covalent Bond: atoms sharing electron(s), due to the stability of having complete valence shells.
-- Ionic Bond: Positive charge(cation) and negative charge(anion) attract to each other and creates chemical bond
-<br><br>**_More on ionic bonds_**
-- Water weakens ionic bonds, due to the atoms interacting with the water molecules
-- Atoms with ionic bonds are not molecules. i.e. NaCl(Not a molecule)
+- Covalent Bond: 
+    - atoms sharing electron(s), due to the stability of having complete valence shells.
+- Ionic Bond: 
+    - Positive charge(cation) and negative charge(anion) attract to each other and creates chemical bond
+    - Water weakens ionic bonds, due to the atoms interacting with the water molecules
+    - Atoms with ionic bonds are not molecules. <br>i.e. NaCl(Not a molecule)
 
 ### Weak Interaction
-- Hydrogen Bond: hydrogen covalent bond with electronegative atom, attracts to other eletronegative atoms. e.g. Hydrogen in H2O attracted to Nitrogen in NH3
+- Hydrogen Bond: hydrogen covalent bond with electronegative atom, attracts to other eletronegative atoms. <br>e.g. Hydrogen in H2O attracted to Nitrogen in NH3
 - van der Waals interaction: interaction when atoms and molecules are very close by
 
 ### Orbitals
