@@ -37,18 +37,18 @@ The word 'trace element' can have different meaning throughout different literat
 - mass number: (Number of protons) + (Number of neutron)
 - atomic number: number of protons
 - atomic mass: average mass of all the existing isotopes an element<br>
-*One thing to note here is, because protons' and neutrons' mass aren't exactly 1Da(dalton), the atomic mass of an element does not equal to the mass number(while unit in dalton)*\
+*One thing to note here is, because protons' and neutrons' mass aren't exactly 1Da(dalton), the atomic mass of an element does not equal to the mass number(while unit in dalton)*
 
 Isotopes are atoms that have different number of neutron, yet having the same number of protons.
 
 A radioactive isotope is where an atom is going through a decay of the nucleus, and during the decay the atom can lose protons, ergo changing the element.\
-Half life is the time it takes for 50% of the parent isotope to decay. The half life isn't affected by external environmental factors.
+Half life is the time it takes for 50% of the parent isotope to decay. The half life isn't affected by external environmental factors.\
 Through the analysis of the atoms, with the knowledge of the half life of the isotope found, we can determine how long a certain material has been. This is called radiometric dating.
 
 ### Energy in atoms
 The energy in atoms are from potential energy of the electron.\
-More energy -> higher potential energy of electron; electron being further away from the nucleus.\
-The electrons' energy is quantized, meaning it has fixed energy levels of which it can have. This is the shell of the atom.\
+More energy → higher potential energy of electron; electron being further away from the nucleus.\
+The electrons' energy is quantized, meaning it has fixed energy levels of which it can have. This is the shell of the atom.
 
 The outer most shell is the **valence shell**.\
 The electrons in the valence shell are teh **valence electrons**.\
