@@ -13,7 +13,9 @@ layout: page
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
+      {% if post.start-page %}
+       <h3>On Pages: {{post.start-page}}~{{post.end-page}}</h3>
+      {% else %}
     {{ post.content }}
   </div>
   {% endfor %}
