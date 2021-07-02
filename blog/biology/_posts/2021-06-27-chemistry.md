@@ -2,8 +2,8 @@
 layout: post
 title: Basic Chemistry
 episode: 2
-start-page: 76
-end-page: 91
+start_page: 76
+end_page: 91
 ---
 Biology is the product of chemistry and physics, ergo basic knowledge of them are crucial to understanding biology.
 
