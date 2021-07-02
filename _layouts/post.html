@@ -6,9 +6,11 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.start-page %}
-  <h1>test</h1>
   <h3>On Pages: {{page.start-page}}~{{page.end-page}}</h3>
+  {% else %}
+  <h1>test</h1>
   {% endif %}
+  
   {{ content }}
 </div>
 
