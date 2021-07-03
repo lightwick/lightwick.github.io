@@ -50,4 +50,17 @@ Molarity:
 > α M(molarity) = α mol solute in 1L of water
 
 ## 4. pH - acidity
-> pH = -log[H+]
+> pH = -log[H+]\
+> *[H+]: molarity of H+*
+- base: substance that increases hydrogen ion(H+) concentration
+    - weak base: NH3 + H+ ⇄ NH4+
+    - strong base: NaOH → Na+ + OH-
+- acid: substance that decreases hydrogen ion(H+) concentration
+    - strong acid: HCl → H+ + Cl-
+Weak bases and weak acids have a reaction that mostly go both ways.\
+In strong bases and strong acids, the reaction mostly goes in one direction.
+
+## 5. Buffer
+> H2CO3 ⇄ HCO3- + H+\
+There being a acid-base pair, the access of H+ induces reverse reaction decreasing H+ concentration and vice versa.\
+In blood there are multiple substances contributing to being the buffer, ergo even if substances that would normally drastically change the pH of a solvent were to be added to blood there wouldn't be much of a drastic change as would other solvents.
