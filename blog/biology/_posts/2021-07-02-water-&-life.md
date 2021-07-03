@@ -63,6 +63,7 @@ Molarity:
 Weak bases and weak acids have a reaction that mostly go both ways.\
 In strong bases and strong acids, the reaction mostly goes in one direction.
 
+In 25°C -log([H+][OH-])=14.
 ## 4. Buffer
 > H2CO3 ⇄ HCO3- + H+
 
