@@ -7,7 +7,7 @@ end-page: 113
 ---
 > organic: compounds containing carbon
 
-*Organic chemistry* is the field in which organic compounds are dealt with.\
+*Organic chemistry* is the field in which organic compounds are dealt with.
 ## Why is carbon important?
 > Valence: the number of covalent bonds an element can form.\
 > e.g. H = 1, O = 2, N = 3, C = 4
@@ -28,7 +28,7 @@ Due to hydrocarbons' non-polarity, they are hydrophobic.
 - isomer: while isomers have the same chemical compositions, their properties differ due to their differences in structure. These are the three types of isomers.
     1. structural isomer: refer to image below
     2. cis-trans isomer: cis(on this side of), trans(across) are the latin-english correspondents. Cis isomer would have the same atom on the same side, and trans vice versa
-    3. enantiomers: They are divided into L isomer and D isomer. L for _'levo'_ which is _'left'_ in latin, D for _'dextro'_ which is _'right'_
+    3. enantiomers: They are divided into L isomer and D isomer. The letters used to tell apart enantiomers, L and D, are from the words _'levo'_ and _'dextro'_ which mean _'left'_ and _'right'_ respectively.
 ![types of isomers](/assets/isomerism.png)
 
 ## ATP
