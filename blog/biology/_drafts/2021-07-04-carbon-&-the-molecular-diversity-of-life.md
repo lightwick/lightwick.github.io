@@ -22,4 +22,16 @@ Due to hydrocarbons' non-polarity, they are hydrophobic.
 
 ## Isomers
 > isomer = iso(equal) + meros(a share) → isomeres
-[comment]: <> (Insert image of isomer word origin here).
+
+![isomer word origin](/assets/isomer_word_origin.png)
+
+- isomer: while isomers have the same chemical compositions, their properties differ due to their differences in structure. These are the three types of isomers.
+    1. structural isomer: refer to image below
+    2. cis-trans isomer: cis(on this side of), trans(across) are the latin-english correspondents. Cis isomer would have the same atom on the same side, and trans vice versa
+    3. enantiomers: They are divided into L isomer and D isomer. L for _'levo'_ which is _'left'_ in latin, D for _'dextro'_ which is _'right'_
+![types of isomers](/assets/isomerism.png)
+
+## ATP
+ATP(Adenosine triphosphate)
+![ATP chemical structure](/assets/atp.png)
+ATP is the main source of energy inside all animals. How ATP is used will be discussed further down the line.
