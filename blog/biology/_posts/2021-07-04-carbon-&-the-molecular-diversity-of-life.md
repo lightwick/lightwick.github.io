@@ -35,3 +35,9 @@ Due to hydrocarbons' non-polarity, they are hydrophobic.
 ATP(Adenosine triphosphate)
 ![ATP chemical structure](/assets/atp.png)
 ATP is the main source of energy inside all animals. How ATP is used will be discussed further down the line.
+
+
+Image sources:\
+https://www.google.com/search?q=define+isomer&source=lmns&bih=959&biw=958&hl=en&sa=X&ved=2ahUKEwi09bWjlsnxAhVPMt4KHXFND60Q_AUoAHoECAEQAA\<br>
+https://en.wikipedia.org/wiki/Isomer<br>
+https://en.wikipedia.org/wiki/Adenosine_triphosphate
