@@ -24,6 +24,9 @@ Here is my [previous blog](https://blog.naver.com/kevin991125). (Migration incom
 * Set up so opening sidebar doesn't affect the whole page
 * Optimize [pagination](https://jekyllrb.com/docs/variables/#paginator) to my liking
 
+* Project Weed-wacker
+    * add read books section
+    * daily tasks section. e.g. Things I said I'll do everyday, like biology and leetcode
 ### Various Questions I have:
 * What is [Atom](https://atom.io/) and how can it benefit me?
 
