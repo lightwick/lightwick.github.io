@@ -52,3 +52,34 @@ Cellulose is a glucose polymer, used in the cell wall of plant cells. What gives
 There is α glucose(starch) and β glucose(cellulose). α glucose forms a helical structure.\
 β glucose forms a linear structure. Glucose monomers form hydrogen bond with hydroxyls from other cellulose molecules that lie parallel to it. This is possible due to the linear structure that cellulose forms. This interconnected hydrogen bond forms what is called a microfibril.
 ※On an unrelated note, cellulose while non-digestive in humans(due tot the lack of enzymes to break down cellulose), it stimulates teh secretion of mucus which helps the digestion process of other food intake.
+### 3. Lipids
+Lipids are hydrophobic due to it consisting of mostly hardocarbons regions. \
+∵ Hydrocarbons are non-polar becuase the electronegativity of hydrogen and carbon aren't big enough.\
+There are 3 important lipids in biology.
+1. Fats
+2. Phospholipids
+3. Steroids
+#### 3-1) Fats
+Fats are made from glycerol and fatty acids. Three fatty acids are linked to the glycerol to make fat.\
+The glycerol is referred to as the 'head', and the fatty acids as the 'tail'.\
+The linkage between the glycerol and fatty acids is called an ester linkage. Ester linkage is basically a hydration between the hydroxyl group(𝄖OH) of the glycerol and the carboxyl group(C𝄗O) of the fatty acids.\
+Fats can also be classified into two. Saturated fat and unsaturated fat.
+##### 1. Saturated fat
+When there are only single bonds between the carbons in the carbon chain(skeleton), that molecule is called a saturated fat.\
+Because there are only single bonds in the carbon chain, it is relatively flexible in its structure, which allows it to pack together tightly.\
+Due to this, alot of saturated fats can remain solid at room temperature. e.g. Butter, lard, etc..
+##### 2. Unsaturated fat
+When one or more double bonds are in a carbon chain, that molecule is called an unsaturated fat.\
+
+Unsaturated fat can be again divided into 2 categories, cis fat and trans fat.(C𝄗O)
+
+In *cis* fat, The *cis* double bond causes the fatty acid to become bent, preventing it from it and other molecules like it from being close to each other.\
+They are mostly liquid at room temperature. e.g. Fish oil, live oil, etc..
+
+*Trans* fat has a linear structure compared to cis fat. Trans fat is common in processed foods. Trans fat is considered bad to human health. Further more, the FDA ordered trans fats to be removed from the US food supply. Not only the US, but Denmark and Switzerland has also banned trans fats in foods.
+
+The main use of fats is to store access energy. In mammals energy is stored in adipose cells (translated to 지방세포 in Korean).
+### 3-2) Phospholipids (인지질)
+Phospholipids are very similar in structure to fats. The only difference is that only two fatty acids are connected to glycerol, and a __phosphate group molecule__ is connected to the top of the glycerol(considering the head as the top and tail as the bottom).\
+The phosphate group has a negative electrical charge, giving the head of the phospholipid slightly polar, making it hydrophilic, while the tail remains hydrophobic.\
+Now this characteristic creates what is referred to as a bilayer, where the heads of the phospholipids face outwards of the bilayer and the tail face inwards.
