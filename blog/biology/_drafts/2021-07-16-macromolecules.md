@@ -79,7 +79,13 @@ They are mostly liquid at room temperature. e.g. Fish oil, live oil, etc..
 *Trans* fat has a linear structure compared to cis fat. Trans fat is common in processed foods. Trans fat is considered bad to human health. Further more, the FDA ordered trans fats to be removed from the US food supply. Not only the US, but Denmark and Switzerland has also banned trans fats in foods.
 
 The main use of fats is to store access energy. In mammals energy is stored in adipose cells (translated to 지방세포 in Korean).
-### 3-2) Phospholipids (인지질)
+#### 3-2) Phospholipids (인지질)
 Phospholipids are very similar in structure to fats. The only difference is that only two fatty acids are connected to glycerol, and a __phosphate group molecule__ is connected to the top of the glycerol(considering the head as the top and tail as the bottom).\
 The phosphate group has a negative electrical charge, giving the head of the phospholipid slightly polar, making it hydrophilic, while the tail remains hydrophobic.\
 Now this characteristic creates what is referred to as a bilayer, where the heads of the phospholipids face outwards of the bilayer and the tail face inwards.
+![phospholipid bilayer](/assets/bilayer.png)
+#### 3-3) Steroids
+The carbon skeleton of sterods is different from phosphlipids and fats. In steroids the four carbons create a ring like shape.\
+Steroids controls membrane fluidity. It is also used as a signaling molecule.\
+Cholesterol is an important steroid in animals. It is the precursor to other steroids such as sex hormones. Cholestrol is synthesized in the liver.
+### 4. Proteins.
