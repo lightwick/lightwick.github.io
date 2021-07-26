@@ -51,7 +51,7 @@ The opposite reaction, hydrolysis, occurs, fueling the organism.
 Cellulose is a glucose polymer, used in the cell wall of plant cells. What gives cellulose its toughness is the structure that cellulose forms.\
 There is α glucose(starch) and β glucose(cellulose). α glucose forms a helical structure.\
 β glucose forms a linear structure. Glucose monomers form hydrogen bond with hydroxyls from other cellulose molecules that lie parallel to it. This is possible due to the linear structure that cellulose forms. This interconnected hydrogen bond forms what is called a microfibril.
-※On an unrelated note, cellulose while non-digestive in humans(due tot the lack of enzymes to break down cellulose), it stimulates teh secretion of mucus which helps the digestion process of other food intake.
+※On an unrelated note, cellulose while non-digestive in humans(due to the lack of enzymes to break down cellulose), it stimulates teh secretion of mucus which helps the digestion process of other food intake.
 ### 3. Lipids
 Lipids are hydrophobic due to it consisting of mostly hardocarbons regions. \
 ∵ Hydrocarbons are non-polar becuase the electronegativity of hydrogen and carbon aren't big enough.\
@@ -89,3 +89,23 @@ The carbon skeleton of sterods is different from phosphlipids and fats. In stero
 Steroids controls membrane fluidity. It is also used as a signaling molecule.\
 Cholesterol is an important steroid in animals. It is the precursor to other steroids such as sex hormones. Cholestrol is synthesized in the liver.
 ### 4. Proteins.
+I've mentioned enzymes in this post before specifying what they are. I'll quickly go through what enzymes are before going into proteins. Enzymes are proteins that act as catalysts to certain chemical reactions within living organisms.\
+
+Enzymes are one of the most important proteins for a living organism.\
+Proteins are constructed from the same 20 sets of amino acids. Amino acids create a peptide bond, which is just a dehydration reaction between amino acids, making a polypeptide.\
+Proteins are made up of one or more of these polypeptides.
+
+When looking at a polypeptide, there are two ends. On one end there is the amino group which has nitrogen with 2 hydrogens attached. This side is called the __N-terminus__.\
+On The other end, there is a carbon atom, with oxygen and hydroxide attached. This side of the polypeptide is called the __C-terminus__.
+
+Proteins structure, such as the way it bends, affects the proteins characteristics and what it does.
+There is *__primary structure, secondary structure, tertiary structure, and quantery structure__*.\
+The primary structure of a protein is the sequence of amino acids of which it's made.\
+The other structures(secondary, tertiary, quantery structure) are due to the primary structure of the protein.\
+I won't go into detail of what they are.
+
+Like I mentioned before, a proteins folding is very important. Wrong foldings could lead to undesired results.\
+Diseases such has Alzheimer's and Parkinson's is caused by the accumulation of the misfoldings of proteins.
+
+### 5. Genes
+Gense are what determine a proteins primary structure.\
