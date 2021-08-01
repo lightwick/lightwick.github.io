@@ -108,4 +108,21 @@ Like I mentioned before, a proteins folding is very important. Wrong foldings co
 Diseases such has Alzheimer's and Parkinson's is caused by the accumulation of the misfoldings of proteins.
 
 ### 5. Genes
-Gense are what determine a proteins primary structure.\
+Genes are what determine a proteins primary structure.\
+Genes consist of DNA, which is a nucleic acid. There are two types of nucleic acids. One of which is DNA and the other is RNA. They stand for **d**eoxyribo**n**ucleic **a**cid and **r**ibo**n**ucleic **a**cid respectively.\
+DNA directs the synthesis of RNA, RNA directs the synthesis of proteins. One particular thing to mention, DNA also directs the synthesis of other DNA molecules.\
+This is entire process is called ***gene expression***.
+> Gene expression: DNA → RNA → protein
+In eukaryotic cells, DNA stays in the nucleus and can't come out. The so called 'data' of the DNA is tramitted to the ribosome, which synthesizes protein baed on the instructions of the RNA, in the form of *mRNA (messenger RNA, which is a type of RNA)*.
+
+#### The Nucleotide
+A nucleotide is generally composed of the following: a five-carbon sugar(pentose), a nitrogenous base, and one to three phosphate groups.
+
+A nitrogenous base divided into two types, **pyrimidine** and **purine**.\
+Pyrimidine has a 6 member carbon ring and nitrogen atoms. Cytosine, thymine, and uracil are part of this group.\
+Purine has a 6 member carbon ring fused with a 5 membered carbon ring. Adenine and guanine are part of this group.\
+From now on we will abbreviate cytosine, thymine, uracil, adenine, and guanine into C,T,U,A,G respectively, taken from the first letter of the words.\
+In RNA A,G,C,U are found, and in DNA A,G,C,T is found; The difference is RNA can have uracil(U) and not thymine(T) and DNA has it the other way around. \
+Nitrogenous bases can be paired by hydrogen bonds between them. But, there's a catch. Adenine(A) can only be paired with uracil(U) and thymine(T), and guanine(G) can only be paired with cytosine(C).
+
+When looking at a nucleotide polymer, one end has a phosphate attached to a 5' carbon, and the other side has a hydroxyl group attached to a 3' carbon. They are referred to as the 5' end and the 3' end, respectively.
