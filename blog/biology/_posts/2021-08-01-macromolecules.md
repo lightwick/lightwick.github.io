@@ -6,6 +6,7 @@ start-page: 114
 end-page: 139
 ---
 ## 1. Macromolecules
+
 #### Macromolecules are defined as large molecules. In biology macromolecules referes to carbohydrates, proteins, lipids, and nuleic acids.
 
 ※ Because the term large molecules is ambiguous, what it refers to differs by literature.
@@ -30,12 +31,15 @@ There are a couple characteristics that identify a monosaccharide.
     - 5 carbon skeleton: pentoses
     - 3 carbon skeleton: trioses
 From the above, we can say glucose(C₆H₁₂O₆) is a hexoses and a aldose.
+
 ### 2-2) Disaccharides
 Disaccharides, as the name suggests, consists of two monosaccharides forming a glycosidic linkage, which is a covalent bond formed by a dehydration reaction.
+
 ### 2-3) Polysaccharides
 Polysaccharides that have hundreds to thousands of monosaccharides joined together by glycosidic linkages.\
 Polysaccharides are also polymers. The monomer of these polymers are disaccharides such as glucose, fructose, mannose and galactose.\
 There are many different uses of polysaccharides, two of which are for storing energy and the other for maintaining the structure.
+
 #### 1. Storage Polysaccharide
 Both plants and animals use polysaccharides to store energy, while the polymer in use may be different.\
 
@@ -47,11 +51,13 @@ While amylopectin(form of starch) is very similar to glycogen, in that both have
 Energy is stored by the synthesis of polymers such as the aforementioned starch or glycogen, which happens when there is access energy left within the organism.\
 Now how about when energy is depleted within an organism and needs energy.\
 The opposite reaction, hydrolysis, occurs, fueling the organism.
+
 #### 2. Structural Polysaccharide
 Cellulose is a glucose polymer, used in the cell wall of plant cells. What gives cellulose its toughness is the structure that cellulose forms.\
 There is α glucose(starch) and β glucose(cellulose). α glucose forms a helical structure.\
 β glucose forms a linear structure. Glucose monomers form hydrogen bond with hydroxyls from other cellulose molecules that lie parallel to it. This is possible due to the linear structure that cellulose forms. This interconnected hydrogen bond forms what is called a microfibril.
 ※On an unrelated note, cellulose while non-digestive in humans(due to the lack of enzymes to break down cellulose), it stimulates teh secretion of mucus which helps the digestion process of other food intake.
+
 ### 3. Lipids
 Lipids are hydrophobic due to it consisting of mostly hardocarbons regions. \
 ∵ Hydrocarbons are non-polar becuase the electronegativity of hydrogen and carbon aren't big enough.\
@@ -59,6 +65,7 @@ There are 3 important lipids in biology.
 1. Fats
 2. Phospholipids
 3. Steroids
+
 #### 3-1) Fats
 Fats are made from glycerol and fatty acids. Three fatty acids are linked to the glycerol to make fat.\
 The glycerol is referred to as the 'head', and the fatty acids as the 'tail'.\
