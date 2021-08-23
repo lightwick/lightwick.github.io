@@ -23,7 +23,9 @@ Here is my [previous blog](https://blog.naver.com/kevin991125). (Migration incom
 * Blog on process of setting up github pages in lanyon
 * Set up so opening sidebar doesn't affect the whole page
 * Optimize [pagination](https://jekyllrb.com/docs/variables/#paginator) to my liking
+* set color for b tags or h3 tags #1a5490; for increased readability; [reference hyperlink](https://life-with-coding.tistory.com/403)
 
+### Projects
 * Project Weed-wacker
     * add read books section
     * daily tasks section. e.g. Things I said I'll do everyday, like biology and leetcode
