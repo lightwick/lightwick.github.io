@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Codeforces Round #761 (Div. 2) B. GCD Problem"
-mathjax: true
 difficulty: 900
-problem tag: math
+problem_tag: math
 ---
 
 Before going on I want everyone who's reading to know that this is simply *my understanding of the problem* and to be honest, I'm not 100% sure that the logic here is accurate.\
