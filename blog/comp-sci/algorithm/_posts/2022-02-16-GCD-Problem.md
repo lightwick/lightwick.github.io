@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Codeforces Round #761 (Div. 2) B. GCD Problem
+title: "Codeforces Round #761 (Div. 2) B. GCD Problem"
 mathjax: true
 difficulty: 900
 problem tag: math
