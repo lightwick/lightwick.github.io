@@ -23,4 +23,4 @@ Take this with a grain of salt.\
 > **Output**
 > For each test case, output three distinct positive integers a, b, c satisfying the requirements. If there are multiple solutions, you can print any. We can show that an answer always exists.
 
-a and b can be expressed as $a=cx$, $b=cy$ while $x$ and $y$ are coprime(서로수).
+a and b can be expressed as $$a=cx$$, $$b=cy$$ while $$x$$ and $$y$$ are coprime(서로수).
