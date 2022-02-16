@@ -24,6 +24,7 @@ Here is my [previous blog](https://blog.naver.com/kevin991125). (Migration incom
 * Set up so opening sidebar doesn't affect the whole page
 * Optimize [pagination](https://jekyllrb.com/docs/variables/#paginator) to my liking
 * set color for b tags or h3 tags #1a5490; for increased readability; [reference hyperlink](https://life-with-coding.tistory.com/403)
+* show posts as summarized version; because it makes no sense really to see the whole post when you have a specific post you want to see in mind
 
 ### Projects
 * Project Weed-wacker
