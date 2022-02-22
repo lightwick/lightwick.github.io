@@ -27,9 +27,7 @@ Lets say, $a=cx$, $b=cy$ ($x,y$ are coprime). The difference between a and be ca
 Debug: $$ 5 + 5 $$
 Debug: $ 5 + 5 $
 
-$$
-\lvert a-b \rvert &= \lvert cx-cy \rvert \\ &= \lvert c(x-y) \rvert \\ &= c \lvert x-y \rvert 
-$$
+$$ \lvert a-b \rvert &= \lvert cx-cy \rvert \\ &= \lvert c(x-y) \rvert \\ &= c \lvert x-y \rvert $$
 
 Since all $a,b,c$ must be **distinct**, $\lvert x-y \rvert$ is not 0, meaning it's a positive integer. *Therefore*, this proves the above.
 
