@@ -24,7 +24,7 @@ Key observation: for $c$ to be the greatest common divisor of $a$ and $b$, the n
 ## Proof
 Lets say, a=cx, b=cy (x,y are coprime). The difference between a and be can be expressed as |a-b|.
 
-$${aligned}|a-b|&=|cx-cy|\\&=|c(x-y)|\\&=c|x-y|$$
+\[{aligned}|a-b|&=|cx-cy|\\&=|c(x-y)|\\&=c|x-y|{aligned}\]
 
 Since all $a,b,c$ must be **distinct**, $|x-y|$ is not 0, meaning it's a positive integer. *Therefore*, this proves the above.
 
