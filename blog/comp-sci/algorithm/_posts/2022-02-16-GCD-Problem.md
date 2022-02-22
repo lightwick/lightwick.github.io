@@ -29,6 +29,7 @@ $$
 =|c(x-y)|
 =c|x-y|
 $$
+
 Since all $a,b,c$ must be **distinct**, $|x-y|$ is not 0, meaning it's a positive integer. *Therefore*, this proves the above.
 
 Lets say $|a-b| = \theta$. $\theta$ is the distance between $a$ and $b$.\
@@ -53,6 +54,7 @@ a=2\alpha a-1, b=2\alpha a+3, c=1 (\alpha>=2 integer)
 a+b+c=4\alpha+3
 =11,15,19,23,...
 $$
+
 And with that all the numbers within the given $n$ are covered.
 
 ### 2-2 (Solution 2)
