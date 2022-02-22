@@ -23,6 +23,7 @@ problem_tag: math
 Key observation: for $c$ to be the greatest common divisor of $a$ and $b$, the numbers have to be $\alpha$ c ($\alpha$ is a positive integer) apart.
 ## Proof
 Lets say, a=cx, b=cy (x,y are coprime). The difference between a and be can be expressed as |a-b|.
+
 $$
 |a-b|=|cx-cy|
 =|c(x-y)|
@@ -42,6 +43,7 @@ That would take care of all even numbers bigger than or same as 8.
 ## Chapter 2 (Odd Numbers)
 For numbers like 2,4,8,16, all the divisors them, besides one, are even numbers. So if $a$ and $b$ were to have a difference of 2,4, or 16, and were to be odd numbers, the gcd would always be 1. With this we can take two approaches.
 ### 2-1 (Solution 1)
+
 $$
 a=2\alpha a-1, b=2\alpha a+1, c=1 (\alpha>=2 integer)
 a+b+c=4\alpha+1
