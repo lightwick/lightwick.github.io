@@ -24,17 +24,9 @@ Key observation: for $c$ to be the greatest common divisor of $a$ and $b$, the n
 ## Proof
 Lets say, $a=cx$, $b=cy$ ($x,y$ are coprime). The difference between a and be can be expressed as $\lvert a-b \rvert$.
 
-# 1
-\$\$
-a=b
-b=c
-\$\$
+\$$ \begin{aligned} \lvert a-b \rvert &= \lvert cx-cy \rvert \\\\ &= \lvert c(x-y) \rvert \\\\ &= c \lvert x-y \rvert \end{aligned} \$$
 
-# 2
-\$$
-a=b
-b=c
-\$$
+$\$ \begin{aligned} \lvert a-b \rvert &= \lvert cx-cy \rvert \\ &= \lvert c(x-y) \rvert \\ &= c \lvert x-y \rvert \end{aligned} $\$
 
 $
 \begin{aligned} 
