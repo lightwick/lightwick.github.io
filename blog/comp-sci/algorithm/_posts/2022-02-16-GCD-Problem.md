@@ -20,11 +20,11 @@ problem_tag: math
 > For each test case, output three **distinct** positive integers $a, b, c$ satisfying the requirements. If there are multiple solutions, you can print any. We can show that an answer always exists.
 
 # Solution:
-Key observation: for $c$ to be the greatest common divisor of $a$ and $b$, the numbers have to be $\alpha$ c ($\alpha$ is a positive integer) apart.
+Key observation: for $c$ to be the greatest common divisor of $a$ and $b$, the numbers have to be $\alpha c$ ($\alpha$ is a positive integer) apart.
 ## Proof
 Lets say, $a=cx$, $b=cy$ ($x,y$ are coprime). The difference between a and be can be expressed as $\lvert a-b \rvert$.
 
-$$ 5 + 5 $$
+Debug: $$ 5 + 5 $$
 
 $$
 \begin{aligned} 
