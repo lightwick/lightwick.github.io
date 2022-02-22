@@ -8,7 +8,7 @@ problem_tag: math
 
 [Codeforces Round #761 (Div. 2) B. GCD Problem](https://codeforces.com/problemset/problem/1617/B)
 
-> ## Question:
+# Question:
 > Given a positive integer $n$. Find three **distinct** positive integers $a, b, c$ such that $a+b+c=n$ and $gcd(a,b)=c$, where $gcd(x,y)$ denotes the greatest common divisor (GCD) of integers $x$ and $y$.
 >
 > **Input**
@@ -19,11 +19,11 @@ problem_tag: math
 > **Output**
 > For each test case, output three **distinct** positive integers $a, b, c$ satisfying the requirements. If there are multiple solutions, you can print any. We can show that an answer always exists.
 
-## Solution:
+# Solution:
 Key observation: for $c$ to be the greatest common divisor of $a$ and $b$, the numbers have to be $\alpha$ c ($\alpha$ is a positive integer) apart.
-**Proof**
+## Proof
+Lets say, a=cx, b=cy (x,y are coprime). The difference between a and be can be expressed as |a-b|.
 $$
-Lets say, a=cx, b=cy (x,y are coprime). The difference between a and be can be expressed as |a-b|
 |a-b|=|cx-cy|
 =|c(x-y)|
 =c|x-y|
@@ -34,14 +34,14 @@ Lets say $|a-b| = \theta$. $\theta$ is the distance between $a$ and $b$.\
 With the above *key observation*, we can infer the following.\
 *The greatest common divisor is among the **divisors of $\theta$***
 
-### Chapter 1 (Even Numbers)
+## Chapter 1 (Even Numbers)
 If $c=1$ and the difference between $a$ and $b$ was 1, then the gcd would always be 1 due to the above.
 Lets say $c=1$, $a=k$, $b=k+1$ (while $k>=2$, $k$ is an integer). Then $a+b+c=2k+2$\
 That would take care of all even numbers bigger than or same as 8.
 
-### Chapter 2 (Odd Numbers)
+## Chapter 2 (Odd Numbers)
 For numbers like 2,4,8,16, all the divisors them, besides one, are even numbers. So if $a$ and $b$ were to have a difference of 2,4, or 16, and were to be odd numbers, the gcd would always be 1. With this we can take two approaches.
-#### 2-1
+### 2-1 (Solution 1)
 $$
 a=2\alpha a-1, b=2\alpha a+1, c=1 (\alpha>=2 integer)
 a+b+c=4\alpha+1
@@ -53,7 +53,7 @@ a+b+c=4\alpha+3
 $$
 And with that all the numbers within the given $n$ are covered.
 
-#### 2-2
+### 2-2 (Solution 2)
 We are still trying to solve while $c=1$.\
 Because $c=1$, $a+b=n-1$ and $n$ is an *odd number*, $n-1$ is an $even number$.
 Lets say $n-1=2*\alpha (\alpha is a positive integer)$.\
@@ -69,7 +69,7 @@ $\alpha-2$ and $\alpha+2$ are both odd numbers. They have a difference of 4, and
 Ergo, $a=\alpha-2$, $b=\alpha+2$, $c=1$.
 
 ## Solution code
-### Solution 2-1
+### Solution 2
 ```
 using namespace std;
 
@@ -110,7 +110,7 @@ int main() {
 }
 ```
 
-### Solution 
+### Solution 2
 ```
 void solve() {
 	int n;
