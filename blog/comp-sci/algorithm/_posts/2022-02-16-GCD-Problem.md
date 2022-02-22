@@ -22,13 +22,13 @@ problem_tag: math
 # Solution:
 Key observation: for $c$ to be the greatest common divisor of $a$ and $b$, the numbers have to be $\alpha$ c ($\alpha$ is a positive integer) apart.
 ## Proof
-Lets say, a=cx, b=cy (x,y are coprime). The difference between a and be can be expressed as |a-b|.
+Lets say, $a=cx$, $b=cy$ ($x,y$ are coprime). The difference between a and be can be expressed as $\lvert a-b \rvert$.
 
 $$ \begin{aligned} \lvert a-b \rvert &= \lvert cx-cy \rvert \\ &= \lvert c(x-y) \rvert \\ &= c \lvert x-y \rvert \end{aligned} $$
 
-Since all $a,b,c$ must be **distinct**, $|x-y|$ is not 0, meaning it's a positive integer. *Therefore*, this proves the above.
+Since all $a,b,c$ must be **distinct**, $\lvert x-y \rvert$ is not 0, meaning it's a positive integer. *Therefore*, this proves the above.
 
-Lets say $|a-b| = \theta$. $\theta$ is the distance between $a$ and $b$.\
+Lets say $\vert a-b \rvert = \theta$. $\theta$ is the distance between $a$ and $b$.\
 With the above *key observation*, we can infer the following.\
 *The greatest common divisor is among the **divisors of $\theta$***
 
@@ -41,13 +41,13 @@ That would take care of all even numbers bigger than or same as 8.
 For numbers like 2,4,8,16, all the divisors them, besides one, are even numbers. So if $a$ and $b$ were to have a difference of 2,4, or 16, and were to be odd numbers, the gcd would always be 1. With this we can take two approaches.
 ### 2-1 (Solution 1)
 
-$$\begin a=2\alpha a-1, b=2\alpha a+1, c=1 (\alpha>=2 integer)
+$$ a=2\alpha a-1, b=2\alpha a+1, c=1 (\alpha>=2 integer)
 a+b+c=4\alpha+1
 =9,13,17,21,...
 
 a=2\alpha a-1, b=2\alpha a+3, c=1 (\alpha>=2 integer)
 a+b+c=4\alpha+3
-=11,15,19,23,...\end$$
+=11,15,19,23,...$$
 
 And with that all the numbers within the given $n$ are covered.
 
