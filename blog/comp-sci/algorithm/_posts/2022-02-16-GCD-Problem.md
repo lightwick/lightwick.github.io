@@ -39,9 +39,11 @@ That would take care of all even numbers bigger than or same as 8.
 ## Chapter 2 (Odd Numbers)
 For numbers like 2,4,8,16, all the divisors them, **besides one**, are even numbers. So if $a$ and $b$ were to have a difference of 2,4, or 16, and were to be odd numbers, the gcd would always be 1. With this we can take two approaches.
 ### Chapter 2-1 (Solution 1)
-$\$ a=2\alpha a-1, b=2\alpha a+1, c=1 (\alpha>=2 integer) \\\\ \begin{aligned} a+b+c &= 4\alpha+1 \\\\ &=9,13,17,21,... \end{aligned} $\$
+$\$ a=2\alpha a-1, b=2\alpha a+1, c=1 (\alpha>=2 integer) $\$
+$\$ \begin{aligned} a+b+c &= 4\alpha+1 \\\\ &=9,13,17,21,... \end{aligned} $\$
 
-$\$ a=2\alpha a-1, b=2\alpha a+3, c=1 (\alpha>=2 integer) \\\\ \begin{aligned} a+b+c &= 4\alpha+3 \\\\ &=11,15,19,23,... \end{aligned} $\$
+$\$ a=2\alpha a-1, b=2\alpha a+3, c=1 (\alpha>=2 integer) $\$
+$\$ \begin{aligned} a+b+c &= 4\alpha+3 \\\\ &=11,15,19,23,... \end{aligned} $\$
 And with that all the numbers within the given $n$ are covered.
 
 ### Chapter 2-2 (Solution 2)
