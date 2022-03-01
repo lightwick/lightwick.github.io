@@ -14,3 +14,6 @@ N-Queens 9663 - 2022-02-15
 
 이제 부터는 그냥 천천히 난이도를 올려가며
 test
+
+CodeForces Difficulty 1300
+https://codeforces.com/contest/1638/problem/C
