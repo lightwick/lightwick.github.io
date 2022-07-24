@@ -15,12 +15,15 @@ We will install nodemon, a tool that automatically restarts the Nodejs applicati
 npm install nodemon --save-dev
 ```
 
-# Custom Commands
+# Custom Commands (nodemon)
 Within the *package.json* file, inside the script element, add the following.
 ```
 "scripts": {
     "start": "npm ./bin/www",
-    "startserver": "DEBUG=APPLICATION_NAME:* nodemon ./bin/www"
+    "startserver": "DEBUG=APPLICATION_NAME:* nodemon ./bin/www -e js,pug,css"
   }
 ```
 Change the *APPLICATION_NAME* with the actual name of the application.
+
+By default, *nodemon* only restarts application when there are changes made to js files.\
+The `-e js,pug,css` part makes it so that changes in other file extensions can also trigger a restart.
