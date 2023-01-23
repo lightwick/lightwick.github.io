@@ -20,6 +20,15 @@ __builtin_popcountll(n);
 It returns the number of `1`s that are in its binary form.\
 For example, if `int n=7` (`111` in binary), then `__builtin_popcount(n)` will return 3.
 
+```
+#ifdef _MSC_VER
+#  include <intrin.h>
+#  define __builtin_popcount __popcnt
+#endif
+```
+
+This bit of code will be needed to use the code in Visual Studio.
+
 ## 2. __builtin_clz(n)
 ```
 int n;
