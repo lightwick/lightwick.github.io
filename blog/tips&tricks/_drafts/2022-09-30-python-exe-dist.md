@@ -3,7 +3,7 @@ layout: post
 title: pyinstaller hiddenimports
 ---
 
-`pyinstaller --hidden-imports setuptools._distutils`
+`pyinstaller --hidden-import setuptools._distutils`
 
 ### Input
 `pip show setuptools`
